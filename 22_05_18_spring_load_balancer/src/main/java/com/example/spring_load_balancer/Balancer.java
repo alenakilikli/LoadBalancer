@@ -1,4 +1,4 @@
-package com.example.spring_load_balancer;
+package main.java.com.example.spring_load_balancer;
 
 import com.example.spring_load_balancer.thread.Cleaner;
 import com.example.spring_load_balancer.thread.UdpGatewaySender;

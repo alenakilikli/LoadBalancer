@@ -1,4 +1,4 @@
-package com.example.spring_load_balancer.config;
+package main.java.com.example.spring_load_balancer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.example.spring_load_balancer.thread;
+package main.java.com.example.spring_load_balancer.thread;
 
 import com.example.spring_load_balancer.model.ServerData;
 import com.example.spring_load_balancer.repo.IServerMap;

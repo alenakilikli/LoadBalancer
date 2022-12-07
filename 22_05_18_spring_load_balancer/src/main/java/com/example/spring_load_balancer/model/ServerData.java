@@ -1,4 +1,4 @@
-package com.example.spring_load_balancer.model;
+package main.java.com.example.spring_load_balancer.model;
 
 import java.time.LocalDateTime;
 import java.util.Objects;

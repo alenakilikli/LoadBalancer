@@ -1,4 +1,4 @@
-package de.telran.spring_load_balancer_server;
+package main.java.de.telran.spring_load_balancer_server;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.scheduling.annotation.Async;

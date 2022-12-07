@@ -1,4 +1,4 @@
-package com.example.spring_load_balancer.thread;
+package main.java.com.example.spring_load_balancer.thread;
 
 import com.example.spring_load_balancer.repo.IServerMap;
 import org.springframework.beans.factory.annotation.Value;

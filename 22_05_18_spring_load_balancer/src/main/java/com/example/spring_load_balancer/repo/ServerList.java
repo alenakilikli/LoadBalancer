@@ -1,4 +1,4 @@
-package com.example.spring_load_balancer.repo;
+package main.java.com.example.spring_load_balancer.repo;
 
 import com.example.spring_load_balancer.model.ServerData;
 import org.springframework.stereotype.Component;
